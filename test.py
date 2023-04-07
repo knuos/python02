@@ -1,4 +1,1 @@
-# variable: fact
-
-
-print('10! = ', fact)
+# Write python code below
